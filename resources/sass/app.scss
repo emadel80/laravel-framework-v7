@@ -1,0 +1,16 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700&display=swap');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Vuetify
+@import '~vuetify/dist/vuetify.min.css';
+@import '~@mdi/font/scss/materialdesignicons';
+
+// Theme
+@import 'themes/default';
